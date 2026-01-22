@@ -4,7 +4,7 @@ import time
 import os
 
 # === 配置区 ===
-DEEPSEEK_API_KEY = "sk-44fde51f92ae4712940dca03cc163804"
+DEEPSEEK_API_KEY = "**********************" #输入你的API
 BASE_URL = "https://api.deepseek.com/v1/chat/completions"
 INPUT_PATH = "./ACL/Data_Augmentation/test.json"  # 替换为你的输入路径
 OUTPUT_PATH = "./ACL/Data_Augmentation/result.json"
